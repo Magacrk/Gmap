@@ -72,7 +72,7 @@ WildRydes.map = WildRydes.map || {};
 
     function handlePickupChanged() {
         var requestButton = $('#request');
-        requestButton.text('Request Cab');
+        requestButton.text('Request Unicorn');
         requestButton.prop('disabled', false);
     }
 
